@@ -4,9 +4,9 @@
 
 ## English
 
-* [Frequently asked questions](english/faq.md)
 * [New Secret Santa event](english/new-event.md)
 * [Troubleshooting](english/troubleshooting.md)
+* [Frequently asked questions](english/faq.md)
 
 ---
 
