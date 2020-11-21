@@ -4,10 +4,15 @@
 
 ## English
 
-* [Frequently asked questions](english/untitled.md)
-* [Untitled](english/untitled-1.md)
+* [Frequently asked questions](english/faq.md)
+* [New Secret Santa event](english/new-event.md)
+* [Troubleshooting](english/troubleshooting.md)
 
 ---
 
 * [Download App](https://apps.apple.com/app/id1442673273)
+
+## Español
+
+* [Untitled](espanol/untitled.md)
 
