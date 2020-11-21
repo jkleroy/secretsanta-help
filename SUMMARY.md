@@ -8,11 +8,11 @@
 * [Troubleshooting](english/troubleshooting.md)
 * [Frequently asked questions](english/faq.md)
 
+## Español
+
+* [Comenzar Amigo Invisible](espanol/new-event.md)
+
 ---
 
 * [Download App](https://apps.apple.com/app/id1442673273)
-
-## Español
-
-* [Untitled](espanol/untitled.md)
 
