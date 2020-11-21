@@ -6,8 +6,8 @@ description: Welcome to the official Secret Santa help center.
 
 ## Select your language
 
-* English
-* Español
+* [English](english/new-event.md)
+* [Español](espanol/new-event.md)
 
 ### Contact
 
@@ -18,7 +18,7 @@ For all questions, requests and issues, please contact us directly from the app.
 
 Secret Santa is currently available in English, Catalan, Danish, Dutch, French, German, Italian, Hungarian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Turkish and Ukrainian.
 
-If you would like to see Secret Santa translated to another language, please [contact us]().
+If you would like to see Secret Santa translated to another language, please [contact us](./#contact).
 
 
 
