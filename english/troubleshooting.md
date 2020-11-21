@@ -43,8 +43,16 @@ Here is a list of status codes displayed in your Secret Santa group.
 For each person where **Error** is displayed, it is necessary to resend the invitation.
 {% endhint %}
 
-#### Re-sending the invitation
+### Re-sending the invitation
+
+{% hint style="success" %}
+1. Open Secret Santa app
+2. Tap on the menu button at the top left
+3. Tap on **Your Secret Santas**
+4. Select the event
+5. Tap on the options button ••• next to a person's name
+{% endhint %}
 
 To resend an invitation, tap on the options button ••• next to the participant's name.  
-The select how you want to resend the invitation.
+Then select how you want to resend the invitation: Email, SMS, WhatsApp, Line, Telegram...
 

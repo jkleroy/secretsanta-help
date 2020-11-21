@@ -8,3 +8,7 @@ Yes, of course! When you purchase Secret Santa Premium on your iPhone, you can r
 
 Yes, Secret Santa app can hold as many groups as you wish.
 
+### Someone in my group did not receive the email
+
+Please refer to [troubleshooting](troubleshooting.md#re-sending-the-invitation).
+
