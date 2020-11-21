@@ -5,7 +5,7 @@
 ## English
 
 * [Frequently asked questions](english/untitled.md)
-* [New Secret Santa event](english/untitled-1.md)
+* [New Secret Santa event](english/new-event.md)
 * [Troubleshooting](english/troubleshooting.md)
 
 ---
