@@ -1,5 +1,5 @@
 ---
-Descripción: Toca en Comenzar Secret Santa desde la pantalla de inicio.
+description: Toca en Comenzar Secret Santa desde la pantalla de inicio.
 ---
 
 # Nuevo evento de Secret Santa
