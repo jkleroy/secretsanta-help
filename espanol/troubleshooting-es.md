@@ -40,7 +40,7 @@ Aquí puedes ver una lista de codigos de estados que se muestra en tu grupo de S
 | Error | La dirección de Email no existe o está bloqueada por Spam. |
 
 {% hint style="warning" %}
-Reenvia tu invitación por cada persona que muestre _Error_.
+Reenvia tu invitación por cada persona que muestre _**Error**_.
 {% endhint %}
 
 ## Reenviando la invitación
