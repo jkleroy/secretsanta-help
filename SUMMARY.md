@@ -10,7 +10,9 @@
 
 ## Español
 
-* [Comenzar Amigo Invisible](espanol/new-event.md)
+* [Comenzar Amigo Invisible](espanol/new-event-es.md)
+* [Solución de Problemas](espanol/troubleshooting-es.md)
+* [Preguntas Frecuentes](espanol/faq-es.md)
 
 ---
 
