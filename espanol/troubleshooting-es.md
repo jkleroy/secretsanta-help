@@ -11,7 +11,7 @@ Sigue estos pasos para obtener tu invitación de Secret Santa:
 {% hint style="success" %}
 1. Abre el App de Secret Santa
 2. Toca en el botón de menú en la esquina superior izquierda
-3. Toca en **Mis Secret Santa**
+3. Toca en **Tu Amigo Invisible**
 4. Selecciona el evento
 5. Al lado de tu nombre, toca en el botón de opciones •••
 6. Elige "Envíar por email" para enviarte tu invitación
@@ -24,7 +24,7 @@ Secret Santa permite revisar el estado de todos tus emails enviados.
 {% hint style="info" %}
 1. Abre el App de Secret Santa
 2. Toca en el botón de menú en la esquina superior izquierda
-3. Toca en **Mis Secret Santa**
+3. Toca en **Tu Amigo Invisible**
 4. Selecciona el evento
 {% endhint %}
 
@@ -48,7 +48,7 @@ Reenvia tu invitación por cada persona que muestre **Error*.
 {% hint style="success" %}
 1. Abre el App de Secret Santa
 2. Toca en el botón de menú en la esquina superior izquierda
-3. Toca en **Mis Secret Santa**
+3. Toca en **Tu Amigo Invisible**
 4. Selecciona el evento
 5. Selecciona el botón de opciones ••• al lado del nombre de una persona
 {% endhint %}
