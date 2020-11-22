@@ -10,7 +10,7 @@ Si, nuestra app soporta tantos grupos como quieras.
 
 ## Alguien en mi grupo no recibió el email
 
-Dirigete a [solución de problemas](https://github.com/jkleroy/secretsanta-help/tree/7067f671813bb03d045952a6b594b8da36edec52/espanol/soporte.md#re-enviando-invitacion).
+Dirigete a [solución de problemas](troubleshooting-es.md#reenviando-la-invitacion).
 
 ## ¿Puedo armar una wishlist?
 
