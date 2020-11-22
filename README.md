@@ -16,7 +16,7 @@ For all questions, requests and issues, please contact us directly from the app.
 
 ### Supported languages
 
-Secret Santa is currently available in English, Catalan, Danish, Dutch, French, German, Italian, Hungarian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Turkish and Ukrainian.
+Secret Santa is currently available in English, Catalan, Croatian, Czech, Danish, Dutch, French, German, Italian, Hungarian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Turkish and Ukrainian.
 
 If you would like to see Secret Santa translated to another language, please [contact us](./#contact).
 
