@@ -1,6 +1,6 @@
 # Solución de Problemas
 
-### Soy el organizador y no recibí el email
+## Soy el organizador y no recibí el email
 
 ¡Que no cunda el pánico! 🙂. Tus eventos de Secret Santa están guardados en tu dispositivo.
 
@@ -17,7 +17,7 @@ Sigue estos pasos para obtener tu invitación de Secret Santa:
 6. Elige "Envíar por email" para enviarte tu invitación
 {% endhint %}
 
-### Uno o más participantes no recibieron la invitación
+## Uno o más participantes no recibieron la invitación
 
 Secret Santa permite revisar el estado de todos tus emails enviados.
 
@@ -30,7 +30,7 @@ Secret Santa permite revisar el estado de todos tus emails enviados.
 
 Aquí puedes ver una lista de codigos de estados que se muestra en tu grupo de Secret Santa.
 
-|Estado | Explicación|
+| Estado | Explicación |
 | :--- | :--- |
 | Abierto | Email recibido y abierto. |
 | Envíado | Email envíado. |
@@ -40,10 +40,10 @@ Aquí puedes ver una lista de codigos de estados que se muestra en tu grupo de S
 | Error | La dirección de Email no existe o está bloqueada por Spam. |
 
 {% hint style="warning" %}
-Reenvia tu invitación por cada persona que muestre **Error*.
+Reenvia tu invitación por cada persona que muestre _\*Error_.
 {% endhint %}
 
-### Reenviando la invitación
+## Reenviando la invitación
 
 {% hint style="success" %}
 1. Abre el App de Secret Santa
@@ -54,5 +54,4 @@ Reenvia tu invitación por cada persona que muestre **Error*.
 {% endhint %}
 
 Para enviar una invitación, toca en el botón de opciones ••• al lado del nombre del participante. Luego, selecciona como quieres reenviar la invitación, ya sea por email, SMS, WhatsApp, Line, Telegram o algún otro.
-
 
