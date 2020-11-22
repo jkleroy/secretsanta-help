@@ -10,7 +10,7 @@ Si, nuestra app soporta tantos grupos como quieras.
 
 ### Alguien en mi grupo no recibió el email
 
-Dirigete a [soporte](soporte.md#re-sending-the-invitation).
+Dirigete a [soporte](soporte.md#re-enviando-invitacion).
 
 ### ¿Puedo armar una wishlist?
 
