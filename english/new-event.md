@@ -20,6 +20,8 @@ This view asks for
 * Budget: defined budget for each Secret Santa gift
 * Event Date: the date on which the gift exchange will take place
 
+![New Secret Santa event](../.gitbook/assets/new-event.png)
+
 #### Add your participants
 
 The first participant added is yourself, the organizer. Write your name and email address. You can also select your contact information from the Contacts list ![](../.gitbook/assets/ic8_contacts-2x.png).
@@ -30,6 +32,8 @@ If you add the particpant's email address, the invitation will automatically be 
 #### Exclusions
 
 The next step is setting exclusions. If two or more particpants should not be matched, tap their names. This is especially useful to prevent couples offering one another a gift or for any other reason.
+
+![Setting-up exclusions](../.gitbook/assets/exclusions.png)
 
 #### Additional message
 
@@ -47,5 +51,5 @@ Make sure to tap on each name to send the invitation before closing the app.
 
 The **Other Options...** menu option pops-up the regular text sharing action sheet to use other messaging services that aren't listed.
 
-
+![Send by email / sms / WhatsApp](../.gitbook/assets/whatsapp_framed.jpg)
 
