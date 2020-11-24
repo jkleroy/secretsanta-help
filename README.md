@@ -8,6 +8,7 @@ description: Welcome to the official Secret Santa help center.
 
 * [English](english/new-event.md)
 * [Español](espanol/new-event-es.md)
+* [Português](portugues/new-event-pt.md)
 
 ### Contact
 
