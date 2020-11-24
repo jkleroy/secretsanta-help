@@ -1,6 +1,6 @@
 # Guia de solução de problemas
 
-### Eu sou o organizador e não recebi o e-mail
+## Eu sou o organizador e não recebi o e-mail
 
 Calma 🙂. Os seus eventos de amigo secreto estão armazenados com segurança no seu dispositivo.
 
@@ -17,7 +17,7 @@ Siga estes passos para receber seu convite para o amigo secreto
 6. Envie por e-mail para enviar o convite para si próprio
 {% endhint %}
 
-### Um ou mais participantes não receberam o convite do amigo secreto
+## Um ou mais participantes não receberam o convite do amigo secreto
 
 O Amigo Secreto permite ver o status de todos os e-mails enviados.
 
@@ -43,7 +43,7 @@ Esta é uma lista dos códigos de status exibidos no grupo de amigo secreto.
 É necessário reenviar o convite para todas as pessoas em que a mensagem **Erro** for exibida.
 {% endhint %}
 
-### Reenviando o convite
+## Reenviando o convite
 
 {% hint style="success" %}
 1. Abra o aplicativo Amigo Secreto
