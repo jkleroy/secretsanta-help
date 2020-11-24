@@ -1,5 +1,5 @@
 ---
-description: Toque em Começar amigo secreto na tela inicial.
+description: Toque em Iniciar Amigo Secreto na tela inicial.
 ---
 
 # Novo evento de Amigo Secreto
